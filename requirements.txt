@@ -1,0 +1,8 @@
+PyMuPDF
+openai 
+reportlab
+fitz 
+# pytesseract 
+# python-docx 
+# pypdf 
+# openai
